@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body{
+}
+th{
+	background-color: black;
+            color:white;
+}
+.total{
+      font-weight: bold;
+      text-align: end;
+}
+.sum{
+	font-weight: bold;
+    
+}
