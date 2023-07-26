@@ -1,6 +1,10 @@
 
 /* Your CSS Code here. */
-body{
+
+.table{
+	font:monospace;
+	text:end;
+	fw:bold;
 }
 th{
 	background-color: black;
@@ -11,6 +15,5 @@ th{
       text-align: end;
 }
 .sum{
-	font-weight: bold;
-    
+	font-weight: bold;   
 }
